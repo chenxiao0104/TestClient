@@ -1,0 +1,5 @@
+ServerIp=10.172.76.34
+ServerPort=15504
+outputDir=/Users/rt-build/output
+operPlatform=3
+timeOut=30m
